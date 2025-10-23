@@ -39,7 +39,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+~~~
 
 Developed by:RAKSHITHA K 
 RegisterNumber:212223110039
@@ -54,7 +54,7 @@ RegisterNumber:212223110039
  assign f2=((~y & z)|( w & y )|(x & y));
  endmodule
 
-
+~~~
 **RTL realization**
 <img width="779" height="443" alt="image" src="https://github.com/user-attachments/assets/acc650c2-1fcd-4ae3-8c60-dbde71314d60" />
 <img width="804" height="432" alt="image" src="https://github.com/user-attachments/assets/c0495507-aa1c-4440-bc24-e6b0c0e2978a" />
